@@ -3,7 +3,7 @@
 
 # In[41]:
 
-
+Import base
 import math 
 import matplotlib.pyplot as plt 
 e = 4.8e-10 
