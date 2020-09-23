@@ -17,7 +17,7 @@ pi = math.pi
 
 n0 = 10e9
 d = 1
-B = 10000
+B = 100
 omega = (e*B)/(m*c)
 amax = 8.86e16
 a = amax/7
