@@ -69,7 +69,7 @@ with plt.style.context('bmh'):
     axes[0].set_xlabel('t, s')
     axes[0].set_ylabel('z, cm')
 
-    
+    			
 
     axes[2].plot(z_list, E_list)
     axes[2].set_xlabel('z, cm')
