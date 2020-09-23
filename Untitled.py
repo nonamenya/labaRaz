@@ -4,9 +4,9 @@
 # In[41]:
 
 
-Import base
+import base
 
-Import drop
+import drop
 
 import math 
 import matplotlib.pyplot as plt 
